@@ -48,3 +48,9 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 You can start select witch section in the navbar menu
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+
+---
+
+Feel free to explore each folder to discover the individual components of TaskHub. If you have any questions or comments, don't hesitate to contact me. Have a good time! 🚀
+
+Presented by: Jules Chassany
