@@ -1,4 +1,3 @@
-```markdown
 # TaskHub 🚀
 
 Welcome to the repository of our task and issue management application! Our application aims to simplify effective management of tasks and issues within your GitHub project. With a user-friendly interface and intuitive features, you can organize, track, and resolve tasks and issues seamlessly.
@@ -49,4 +48,3 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 You can start select witch section in the navbar menu
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-```
